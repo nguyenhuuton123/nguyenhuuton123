@@ -2,7 +2,7 @@
 
 ## About Me
 - 💼 I'm looking for a Software Engineer position.
-- 🌱 I'm currently learning **AWS, Microservice**, and more.
+- 🌱 I'm currently learning the new technology and communication English.
 - 😋 I'm friendly, funny, enjoy developing and passionate about learning 📖
 - 📫 You can shoot me an email at **nhtonx1@gmail.com**! I'll try to respond as soon as I can.
 
